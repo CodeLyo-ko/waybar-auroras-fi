@@ -16,7 +16,8 @@ Add this to your waybar config file:
     "format-icons": {
         "high": "<span color='#c43061'>󰢾</span>",
         "medium": "<span color='#f08e48'>󰢽</span>",
-        "low": "󰢼"
+        "low": "󰢼", 
+        "missing": "_"
     },
     "restart-interval":10,
     "return-type":"json",
